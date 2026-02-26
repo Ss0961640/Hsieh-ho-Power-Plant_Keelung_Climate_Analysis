@@ -1,15 +1,10 @@
 # 基隆天氣會受協和發電廠影響嗎
 <!-- Badges 來源參考：https://github.com/Envoy-VC/awesome-badges#github-stats -->
 
-![](https://img.shields.io/github/stars/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
-![](https://img.shields.io/github/forks/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
-![](https://img.shields.io/github/issues-pr/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
-![](https://img.shields.io/github/issues/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
 ![](https://img.shields.io/badge/Domain-Climate%20Data%20Analysis-blue)
 ![](https://img.shields.io/badge/Method-EOF%20(PCA)-orange)
 ![](https://img.shields.io/badge/Tool-MATLAB-yellow)
 ![](https://img.shields.io/badge/Status-Research%20Project-success)
-![](https://img.shields.io/badge/Period-1947--2022-informational)
 
 > 本專案為長期氣象數據分析研究專案，聚焦於協和發電廠營運前後對基隆地區氣候變化之潛在影響，並建立可延伸至 AI 氣候建模的資料分析流程。
 
