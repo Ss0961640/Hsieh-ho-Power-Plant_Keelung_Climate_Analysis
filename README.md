@@ -5,6 +5,11 @@
 ![](https://img.shields.io/github/forks/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
 ![](https://img.shields.io/github/issues-pr/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
 ![](https://img.shields.io/github/issues/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
+![](https://img.shields.io/badge/Domain-Climate%20Data%20Analysis-blue)
+![](https://img.shields.io/badge/Method-EOF%20(PCA)-orange)
+![](https://img.shields.io/badge/Tool-MATLAB-yellow)
+![](https://img.shields.io/badge/Status-Research%20Project-success)
+![](https://img.shields.io/badge/Period-1947--2022-informational)
 
 > 本專案為長期氣象數據分析研究專案，聚焦於協和發電廠營運前後對基隆地區氣候變化之潛在影響，並建立可延伸至 AI 氣候建模的資料分析流程。
 
@@ -54,7 +59,8 @@
 
 透過長期時間序列觀察氣象變數在不同年代的變化趨勢，作為整體氣候變化背景的基準參考。
 
-![Long-term Trend](./figures/long_term_trend.png)
+<img width="574" height="444" alt="螢幕擷取畫面 2026-02-26 160058" src="https://github.com/user-attachments/assets/9843d710-c5f5-4625-a938-05d0b32917b3" />
+
 
 ---
 
@@ -62,7 +68,8 @@
 
 針對春夏秋冬進行季節性統計，並以風向玫瑰圖呈現不同季節的風場分布型態。
 
-![Wind Rose](./figures/wind_rose.png)
+<img width="621" height="593" alt="螢幕擷取畫面 2026-02-26 155934" src="https://github.com/user-attachments/assets/d40cf976-f633-4ef2-864d-d073100c7e0b" />
+
 
 ---
 
@@ -70,7 +77,7 @@
 
 比較營運前、營運中與機組除役後三個階段之氣象指標變化趨勢。
 
-![Before After](./figures/before_after.png)
+<img width="539" height="417" alt="螢幕擷取畫面 2026-02-26 160155" src="https://github.com/user-attachments/assets/50ade7bd-cbc0-4e19-90f1-32d8ff351baf" />
 
 ---
 
@@ -78,7 +85,6 @@
 
 透過 EOF 分析萃取主要變異模態，比較不同營運階段主導氣候結構之變化。
 
-![EOF Result](./figures/eof_result.png)
 
 ---
 
@@ -127,5 +133,5 @@ Hsieh-ho-Power-Plant_Keelung_Climate_Analysis/
 ## 聯絡作者
 
 GitHub: https://github.com/RaymondYang
-Email: your_email@example.com
-LinkedIn: https://www.linkedin.com/in/yourname
+Email: Ss0961640@gmail.com
+
