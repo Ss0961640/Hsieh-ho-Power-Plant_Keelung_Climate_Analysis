@@ -48,3 +48,107 @@
 
 ---
 
+
+
+🌏 Hsieh-ho Power Plant × Keelung Climate Analysis (1947–2022)
+
+本專案以 1947–2022 年基隆測站長期氣象資料 為基礎，透過 MATLAB 進行時間序列分析、季節性統計與 EOF（Empirical Orthogonal Function）降維分析，探討 協和發電廠營運前後對區域氣候指標之潛在影響，並作為後續導入 AI 氣候分析與預測模型 的資料分析基礎。
+
+本研究成果可延伸導入 AI 進行氣候趨勢預測、氣候型態分類與異常氣候偵測，例如結合 EOF 特徵與深度學習模型，建立長期氣候變化的預測與判別模型。
+
+本專案屬於 數據分析（Data Analysis）與氣候資料分析（Climate Data Analysis），可作為後續 AI 氣候分析與預測研究 的基礎專案。
+
+🔍 專案重點（Key Highlights）
+
+使用 70+ 年長期氣象資料進行趨勢分析
+
+分析指標包含降雨、風場與日照相關變數
+
+依發電廠營運階段進行前後對照比較
+
+結合時間序列分析與 EOF（PCA）降維方法
+
+建立可延伸至 AI 氣候分析與預測的資料處理流程
+
+📂 使用資料（1947–2022 長期氣象資料）
+
+本研究使用 中央氣象局基隆測站 1947–2022 年長期氣象資料，包含降雨量、降雨時數、降雨日數、風速、風向與日照時數等變數，作為長期趨勢與結構變化分析之基礎。
+
+使用的變數：
+
+類型	指標
+降水	降雨量、降雨時數、降雨日數
+風場	風向、風速
+日照	日照時數
+🧪 分析設計（時間切割）
+
+本研究以「發電廠營運階段」作為準實驗對照設計，將時間區分為三個階段進行比較分析：
+
+發電廠營運前
+
+發電廠營運中
+
+機組除役（1、2 號機組）
+
+🛠 方法與流程（Methodology）
+1️⃣ 長期時間序列分析
+
+透過長期時間序列觀察氣象變數在不同年代的變化趨勢，分析降雨、風速與日照時數是否呈現長期變動特性，作為整體氣候變化背景的基準參考。
+
+2️⃣ 季節性統計與風向玫瑰圖分析
+
+針對春夏秋冬進行季節性統計，並以風向玫瑰圖呈現不同季節的風場分布型態，用以比較發電廠營運前後風場結構是否存在差異。
+
+3️⃣ 營運階段前後比較分析
+
+依據協和發電廠營運狀態將資料切分為營運前、營運中與機組除役後三個階段，比較各階段氣象指標之變化趨勢，以探討營運活動對區域氣候可能造成的影響。
+
+4️⃣ EOF（Empirical Orthogonal Function）降維分析
+
+透過 EOF 分析將多變量氣候資料進行降維，萃取主要變異模態，進一步比較不同營運階段主導氣候結構是否出現變化，以輔助判讀長期氣候變遷特性。
+
+🧰 使用工具（Tools）
+
+MATLAB（資料處理、統計分析、視覺化、EOF 分析）
+
+Excel（原始資料整理）
+
+中央氣象局氣象資料
+
+▶ 如何重現本研究結果（Reproducibility）
+
+將原始氣象資料放入 data/raw/
+
+執行 code/matlab/ 內的分析腳本
+
+產生之圖表將輸出至 results/plots/
+
+README 中使用之圖檔存放於 figures/
+
+📁 專案結構（Repository Structure）
+Hsieh-ho-Power-Plant_Keelung_Climate_Analysis/
+├─ README.md
+├─ data/
+│  ├─ raw/
+│  └─ processed/
+├─ code/
+│  └─ matlab/
+├─ figures/
+├─ results/
+│  └─ plots/
+└─ docs/
+🚀 未來延伸（Future Work with AI）
+
+AI 時間序列預測（LSTM / Transformer）
+
+氣候型態分類（Random Forest / XGBoost / MLP）
+
+EOF + 深度學習混合模型
+
+異常氣候型態偵測（AutoEncoder / Isolation Forest）
+
+📬 作者與用途
+
+Author: Raymond Yang
+Purpose: Graduate Project / Portfolio / GitHub Showcase
+
