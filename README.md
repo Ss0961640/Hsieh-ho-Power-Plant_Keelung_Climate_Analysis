@@ -1,7 +1,7 @@
 # 基隆天氣會受協和發電廠影響嗎
 <!-- Badges 來源參考：https://github.com/Envoy-VC/awesome-badges#github-stats -->
 
-![matlab](https://img.shields.io/github/stars/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
+![](https://img.shields.io/github/stars/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
 ![](https://img.shields.io/github/forks/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
 ![](https://img.shields.io/github/issues-pr/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
 ![](https://img.shields.io/github/issues/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
