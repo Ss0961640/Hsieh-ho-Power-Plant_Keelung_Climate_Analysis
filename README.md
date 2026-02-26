@@ -1,3 +1,4 @@
+# 基隆天氣會受協和發電廠影響嗎
 <!-- Badges 來源參考：https://github.com/Envoy-VC/awesome-badges#github-stats -->
 
 ![](https://img.shields.io/github/stars/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
@@ -6,8 +7,6 @@
 ![](https://img.shields.io/github/issues/RaymondYang/Hsieh-ho-Power-Plant_Keelung_Climate_Analysis.svg)
 
 > 本專案為長期氣象數據分析研究專案，聚焦於協和發電廠營運前後對基隆地區氣候變化之潛在影響，並建立可延伸至 AI 氣候建模的資料分析流程。
-
-# Hsieh-ho Power Plant × Keelung Climate Analysis (1947–2022)
 
 本專案以 1947–2022 年基隆測站長期氣象資料為基礎，透過 MATLAB 進行時間序列分析、季節性統計與 EOF（Empirical Orthogonal Function）降維分析，探討協和發電廠營運前後對區域氣候指標之潛在影響，並作為後續導入 AI 氣候分析與預測模型的資料分析基礎。
 
