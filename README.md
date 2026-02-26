@@ -67,7 +67,7 @@
 針對春、夏、秋、冬進行季節性統計，並以風向玫瑰圖呈現不同季節風向與風速的分布型態。
 透過比較不同營運階段的季節風場結構，可評估是否存在局部風場型態的長期偏移現象，並避免單一年份極端氣候事件對整體判斷造成干擾。
 
-<img width="621" height="593" alt="螢幕擷取畫面 2026-02-26 155934" src="https://github.com/user-attachments/assets/d40cf976-f633-4ef2-864d-d073100c7e0b" />
+<img width="527" height="466" alt="螢幕擷取畫面 2026-02-26 155934" src="https://github.com/user-attachments/assets/06bc04d6-bd28-4745-af9d-f8effb1e90f4" />
 
 
 ---
