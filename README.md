@@ -57,7 +57,8 @@
 針對 1947–2022 年長期氣象資料進行時間序列分析，觀察降雨量、風速與日照時數等指標在不同年代的變化趨勢與長期波動特性。
 此分析作為整體氣候變化背景的參考基準，用以區分自然氣候長期變動與可能的人為影響訊號，避免將原本的長期氣候趨勢誤判為發電廠營運所造成的變化。
 
-<img width="574" height="444" alt="螢幕擷取畫面 2026-02-26 160058" src="https://github.com/user-attachments/assets/9843d710-c5f5-4625-a938-05d0b32917b3" />
+<img width="574" height="393" alt="螢幕擷取畫面 2026-02-26 160058" src="https://github.com/user-attachments/assets/f97f22b1-d8fc-4976-a7d8-b0f57136c232" />
+
 
 
 ---
@@ -77,7 +78,8 @@
 依據協和發電廠營運狀態將資料切分為營運前、營運中與機組除役後三個階段，比較各階段氣象指標之平均值、變動幅度與長期趨勢差異。
 此方法有助於辨識氣候型態是否在營運階段出現系統性變化，作為評估發電廠對區域氣候潛在影響的初步證據基礎。
 
-<img width="539" height="417" alt="螢幕擷取畫面 2026-02-26 160155" src="https://github.com/user-attachments/assets/50ade7bd-cbc0-4e19-90f1-32d8ff351baf" />
+<img width="539" height="379" alt="螢幕擷取畫面 2026-02-26 160155" src="https://github.com/user-attachments/assets/f51f16af-032c-4aaa-8608-0b6eea69ec02" />
+
 
 ---
 
