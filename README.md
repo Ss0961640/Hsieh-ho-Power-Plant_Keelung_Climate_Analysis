@@ -82,7 +82,7 @@
 
 ---
 
-### EOF（Empirical Orthogonal Function）降維分析
+### EOF（Empirical Orthogonal Function）分析
 
 透過 EOF 分析將多變量氣候資料進行降維，萃取主導氣候變異的主要模態（Principal Modes），並比較不同營運階段主成分結構與時間變化是否出現顯著差異。
 此方法可用於辨識氣候系統中是否存在結構性改變，而非僅限於單一氣象指標的變動，提升對整體氣候型態變遷的解釋能力。
